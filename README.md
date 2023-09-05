@@ -1,8 +1,7 @@
 # Example Page
 
 ### Education
-Physics, BS
-Computer Science, BS
+Physics & Computer Science
 
 ### Work Experience
 Blah Blah Blahh
